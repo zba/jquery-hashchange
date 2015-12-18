@@ -387,4 +387,4 @@
     return self;
   })();
   
-})(jQuery,(function(){return this})());
+})(jQuery,Funtion('return this')());
